@@ -1,1 +1,1 @@
-See resume.pdf
+See resume.pdf and transcript.pdf. Some of the headers in resume.pdf are hyperlinked to the corresponding repositories.
